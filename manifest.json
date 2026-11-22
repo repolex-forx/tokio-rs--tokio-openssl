@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "tokio-rs",
+  "repo": "tokio-openssl",
+  "versions": [
+    {
+      "commit": "70edf385ad3a2f4efe58fa6077a511da7379c0d0",
+      "parsed_at": "2026-11-22T11:37:28.084468+00:00",
+      "tag": "0.6.5",
+      "filetree": "filetree/70edf385ad3a2f4efe58fa6077a511da7379c0d0.nq.gz",
+      "blobs": [
+        "blob/85d6c4d1449beeaae2c7feb0adfdac3cebe197ce.nq.gz",
+        "blob/93255d1f5981fbaac5d040592b5371835c89f526.nq.gz",
+        "blob/2a6afc5662644809a8c3371fa37a75d46b2a7d11.nq.gz",
+        "blob/47ff62f6048de75d6bde3dc511ff978e3a3a79d2.nq.gz",
+        "blob/03814ae8d961b386b6e808ba81b7b3a9171b169f.nq.gz",
+        "blob/9b18b5810d8378e01ece57093da0ecc57a26da51.nq.gz",
+        "blob/1332f8eb5d96f1551077bd11558a8805cbb8f9f1.nq.gz",
+        "blob/58f1020aa32af9235b7e142116c10cd404775db2.nq.gz",
+        "blob/2d08323d3fa3425ce6dc6d2f6ae569eddae41fd2.nq.gz",
+        "blob/312f4a5d9ff2c650fb953c379069faad8d2c0e25.nq.gz",
+        "blob/662540bd90189dd738435c3ad0e9a8685f7891d1.nq.gz",
+        "blob/51bdf5f9499f32e09cb7cd3f30f4a7c3f0822695.nq.gz",
+        "blob/d5a3b639700b48049af7d02342ed471fc6957c17.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
