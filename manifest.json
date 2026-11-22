@@ -64,7 +64,9 @@
           "githubUrl": "https://github.com/rust-lang/futures-rs",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/70edf385ad3a2f4efe58fa6077a511da7379c0d0/chunk-001.nq.gz",
+      "dep": "dep/70edf385ad3a2f4efe58fa6077a511da7379c0d0.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
