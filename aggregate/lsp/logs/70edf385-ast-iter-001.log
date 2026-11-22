@@ -1,0 +1,7 @@
+[2026-11-22T11:39:30Z] === AST ITERATION 1 START | repo=tokio-rs/tokio-openssl sha=70edf385 ===
+[2026-11-22T11:39:30Z] [iter=1] PHASE START: ast repo=tokio-rs/tokio-openssl sha=70edf385
+[2026-11-22T11:39:30Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T11:39:32Z] [iter=1] AST chunks built count=1 triples=19194
+[2026-11-22T11:39:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/70edf385ad3a2f4efe58fa6077a511da7379c0d0/.complete
+[2026-11-22T11:39:32Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-22T11:39:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
